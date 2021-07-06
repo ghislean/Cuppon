@@ -1,0 +1,74 @@
+.container-fluid {
+    height: 2rem;
+   
+}
+
+nav, footer {
+    background-color:#28A745;
+        font-family: Roboto;
+        font-weight: 300;
+    
+}
+
+.img {
+    top: 12px;
+    left: 119px;
+    width: 132px;
+    height: 53px;
+}
+
+.col-12  {
+    margin-bottom:  2rem; 
+    padding-bottom: 3rem;
+ }
+
+ .navbar {
+     height: 6rem;
+     margin-bottom: 3rem;
+ }
+
+ .img-footer{
+     width: 5rem;
+     height: 4rem;
+ }
+
+ .card-footer{
+    text-emphasis-style: Roboto;
+ }
+.card-title{
+   color:#212529 ;
+}
+
+.card-text{
+  color:#707070 ;
+
+}
+
+.card-h{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+
+.text-muted div{
+    text-align: right;
+
+}
+.precio {
+	margin-right: 10px;
+	font-family: Roboto Light;
+	font-weight: 300;
+}
+
+.precio-oferta {
+	color: #28A745;
+	font-family: Roboto medium;
+	font-weight: 500;
+}
+
+.footer {
+    font-family: roboto;
+    font-weight: 300;
+}
+
